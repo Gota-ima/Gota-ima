@@ -29,18 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[あなたのGitHubユーザー名]&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gota-ima&show_icons=true&theme=radical" alt="github stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[あなたのGitHubユーザー名]&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gota-ima&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
-
-### 🔗 Connect with me
-
-<p align="left">
-<a href="https://twitter.com/[あなたのTwitterユーザー名]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[あなたのLinkedInユーザー名]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/[あなたのStackOverflowユーザーID]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://dev.to/[あなたのDEV.toユーザー名]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
-</p>
