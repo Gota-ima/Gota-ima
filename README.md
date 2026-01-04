@@ -46,3 +46,11 @@
   <a href="https://www.markdownguide.org/" target="_blank">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
   </a>
+
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gota-ima&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="Gota-ima's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gota-ima&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+</div>
