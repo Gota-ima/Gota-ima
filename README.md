@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" alt="Header Image" />
-
   <h1>Hi there, I'm <a href="https://github.com/Gota-ima">Gota Inoue</a> 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=IMA-IT+Engineer;Data+Analysis;Infrastructure+Construction;Automation+Enthusiast" alt="Typing SVG"/>
