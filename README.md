@@ -28,6 +28,9 @@
   <a href="https://www.snowflake.com/" target="_blank">
     <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="power_bi"/>
   </a>
@@ -47,10 +50,3 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
   </a>
 
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gota-ima&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="Gota-ima's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gota-ima&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" />
-</div>
