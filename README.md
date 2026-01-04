@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=IMA-IT+Engineer;Data+Analysis;Infrastructure+Construction;Automation+Enthusiast" alt="Typing SVG"/>
   </a>
 <br/>
-IMAの社内SEとして、インフラ構築からデータ分析まで幅広い領域で活動しています 🚀
+<b>IMA</b> の社内SEとして、<b>インフラ構築</b> 🏗️ から <b>データ分析</b> 📊 まで<br/>
+幅広い領域で活動しています 🚀
 </div>
 
 <br/>
