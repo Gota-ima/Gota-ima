@@ -25,6 +25,9 @@
   <a href="https://learn.microsoft.com/ja-jp/office/vba/api/overview/excel" target="_blank">
     <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel_vba"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-scripting-edition/" target="_blank">
+    <img src="https://img.shields.io/badge/VBScript-1E5A96?style=for-the-badge&logo=visual-basic&logoColor=white" alt="vbscript"/>
+  </a>
   <a href="https://www.snowflake.com/" target="_blank">
     <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake"/>
   </a>
